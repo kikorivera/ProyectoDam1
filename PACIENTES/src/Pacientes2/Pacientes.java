@@ -19,7 +19,7 @@ public Pacientes(String Nif, String nom, int edat, double temp, double tenSis, d
 		this.preRev[1]=tenSis;
 		this.preRev[2]=tenDias;		
 	}
-
+//-------------------SETTERS I GETTERS-------------------
 
 	public String getNif() {
 		return Nif;
@@ -80,7 +80,7 @@ public Pacientes(String Nif, String nom, int edat, double temp, double tenSis, d
 		lector.nextLine();
 		this.preRev[2]=tenDias;
 	}				
-//贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩贩穃\
+//路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路路\\
 
 		
 	public String toString() {
