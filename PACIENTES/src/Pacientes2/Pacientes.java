@@ -19,7 +19,7 @@ public Pacientes(String Nif, String nom, int edat, double temp, double tenSis, d
 		this.preRev[1]=tenSis;
 		this.preRev[2]=tenDias;		
 	}
-//-------------------SETTERS I GETTERS-------------------holasaxsadadasdsadasdasdasdasdsdasdasdasd
+//-------------------SETTERS I GETTERS-------------------holasaxsadadasdsadasdasdasdasdsdasdasd<zx<asd
 
 	public String getNif() {
 		return Nif;
