@@ -9,7 +9,7 @@ public class Pacientes {
 	private int edat;
 	private double[] preRev=new double[3];
 
-//PROVA PUSH
+//PROVA PUSHzxdff
 public Pacientes(String Nif, String nom, int edat, double temp, double tenSis, double tenDias){
 	//ident sera automatic 
 		this.Nif=Nif;
