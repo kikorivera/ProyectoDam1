@@ -9,7 +9,7 @@ public class Pacientes {
 	private int edat;
 	private double[] preRev=new double[3];
 
-//asfafasfasfasfasfas
+//PROVA PUSH
 public Pacientes(String Nif, String nom, int edat, double temp, double tenSis, double tenDias){
 	//ident sera automatic 
 		this.Nif=Nif;
@@ -19,8 +19,7 @@ public Pacientes(String Nif, String nom, int edat, double temp, double tenSis, d
 		this.preRev[1]=tenSis;
 		this.preRev[2]=tenDias;		
 	}
-//-------------------SETTERS I GETTERS-------------------holasaxsadadasdsadasdasdasdasdsdasdasd<zx<asd
-//HOLA PRUEBA
+//-------------------SETTERS I GETTERS-------------------
 	public String getNif() {
 		return Nif;
 	}
